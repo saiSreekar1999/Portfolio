@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c1dece3.css",
+    "main.js": "/static/js/main.a32a9f04.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Sai_DP.jpg": "/static/media/Sai_DP.9f6e7f6acf18e2dd4dfb.jpg",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/uniedge.webp": "/static/media/uniedge.76a3d549a3d9a59a3205.webp",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Architecture_Diagram.jpg": "/static/media/Architecture_Diagram.9144905be2b8df1a5476.jpg",
+    "static/media/powerBI.png": "/static/media/powerBI.d61b8a422f55a29ba8b4.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/ucsdLogo.png": "/static/media/ucsdLogo.154a519bd7e91f73dd6b.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.4c1dece3.css.map": "/static/css/main.4c1dece3.css.map",
+    "main.a32a9f04.js.map": "/static/js/main.a32a9f04.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1dece3.css",
+    "static/js/main.a32a9f04.js"
+  ]
+}
